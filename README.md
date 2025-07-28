@@ -78,7 +78,10 @@ Each draw prediction includes the following models:
 - Updates beliefs about what digits will appear based on past appearances.
 
 ---
-
+## 📂 Some random Screenshots
+<img width="1688" height="1136" alt="2025-07-28T15_46_27" src="https://github.com/user-attachments/assets/8a5d2c01-f967-438c-a4c3-d015c140134c" />
+<img width="1602" height="1186" alt="2025-07-28T15_46_10" src="https://github.com/user-attachments/assets/ec196f97-0cac-40ef-a433-bdaa129c5efb" />
+<img width="2226" height="1365" alt="2025-07-28T15_44_37" src="https://github.com/user-attachments/assets/827015cb-478b-4a48-97d9-189f05a972f4" />
 ##  Accuracy & Backtesting 
 - Historical simulation from Jan 1 – Jul 25, 2025
 - All predictions back-tested on actual outcomes
