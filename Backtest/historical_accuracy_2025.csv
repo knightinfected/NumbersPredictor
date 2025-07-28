@@ -1,0 +1,16 @@
+Method,Exact,TwoDigit,OneDigit,Total,Accuracy%
+Gap Analysis,2,22,335,583,0.34
+Frequency Weighted,1,22,317,583,0.17
+Modulo Pattern,1,17,321,583,0.17
+Bayesian Updating,1,17,368,583,0.17
+Hot/Cold,0,13,364,583,0.0
+ARIMA Trend,0,12,345,583,0.0
+Markov Chain,0,15,347,583,0.0
+Difference Pattern,0,17,333,583,0.0
+Sum & Parity,0,10,335,583,0.0
+FFT Cycle Detection,0,18,314,583,0.0
+Entropy Trend,0,9,320,583,0.0
+Higher-Order Markov,0,14,353,583,0.0
+Cluster Analysis,0,15,352,583,0.0
+Lagged Correlation,0,9,368,583,0.0
+ML Predictor,0,17,337,583,0.0
